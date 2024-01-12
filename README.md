@@ -1,5 +1,5 @@
 # TOHacks-2022
-24 Hackathon Project
+24 Hour Hackathon Project
 
 A video file is included that showcases what this project is about. It is labeled "Good Cut"
 
